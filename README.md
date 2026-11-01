@@ -1,4 +1,4 @@
-# Cognton-AI-SIG-IDS
+# Signature-based-Intrusion-Detection
 
 A signature-based network traffic detection engine written in Rust. It reads
 packets from a pcap file, matches them against real threat-intelligence
